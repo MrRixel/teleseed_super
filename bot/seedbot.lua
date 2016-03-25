@@ -224,6 +224,8 @@ function create_config( )
     "invite",
     "all",
     "leave_ban",
+    "supergroup",
+    "tosuper",
     "admin"
     },
     sudo_users = {164918427,82970682,tonumber(our_id)},--Sudo users
