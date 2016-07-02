@@ -326,8 +326,8 @@ function create_config( )
    "hacker"
 
     },
-    sudo_users = {105831687,65609166,68747297,85831686,176972874},--Sudo users
-    parsa = {105831687},
+    sudo_users = {191512505,220173570},--Sudo users
+    parsa = {191512505},
     moderation = {data = 'data/moderation.json'},
     about_text = [[ ]],
     help_text_realm = [[ ]],
